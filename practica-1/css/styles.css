@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Roboto+Mono:wght@200&display=swap');
+*{
+    margin: 0px;
+}
+body{
+    background-color: rgb(32, 32, 32);
+}
+p{
+    text-align: center;
+    text-justify: distribute;
+    white-space: pre;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+    color: whitesmoke;
+    font-family: 'Grand Hotel', cursive;
+    font-size: 4vh;
+}
+img{
+    width: 100%;
+    border: 3px solid whitesmoke;
+}
+.container{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background-color: rgb(20, 20, 20);
+    padding: 10px 0px 10px 0px;
+    border-bottom: 30px solid rgb(96, 31, 160);
+}
+.container-img{
+    width: 30%;
+    margin: auto;
+}
+#goth-line{
+    margin-top: 0px;
+    border: none;
+}
+#footer{
+    border-top: 1px solid whitesmoke;
+    font-size: 2vh;
+    font-family: 'Roboto Mono', monospace;
+}
